@@ -1,0 +1,2830 @@
+[
+  {
+    "sensor_id": 1,
+    "agent": "sarin",
+    "concentration": 0.078,
+    "reaction_rate": 0.796,
+    "timestamp": "2025-03-01T16:26:50.585305"
+  },
+  {
+    "sensor_id": 2,
+    "agent": "sarin",
+    "concentration": 0.08,
+    "reaction_rate": 0.793,
+    "timestamp": "2025-03-01T16:26:51.585305"
+  },
+  {
+    "sensor_id": 3,
+    "agent": "sarin",
+    "concentration": 0.045,
+    "reaction_rate": 0.84,
+    "timestamp": "2025-03-01T16:26:52.585305"
+  },
+  {
+    "sensor_id": 4,
+    "agent": "sarin",
+    "concentration": 0.076,
+    "reaction_rate": 0.799,
+    "timestamp": "2025-03-01T16:26:53.585305"
+  },
+  {
+    "sensor_id": 5,
+    "agent": "sarin",
+    "concentration": 0.05,
+    "reaction_rate": 0.834,
+    "timestamp": "2025-03-01T16:26:54.585305"
+  },
+  {
+    "sensor_id": 6,
+    "agent": "sarin",
+    "concentration": 0.043,
+    "reaction_rate": 0.844,
+    "timestamp": "2025-03-01T16:26:55.585305"
+  },
+  {
+    "sensor_id": 7,
+    "agent": "sarin",
+    "concentration": 0.048,
+    "reaction_rate": 0.836,
+    "timestamp": "2025-03-01T16:26:56.585305"
+  },
+  {
+    "sensor_id": 8,
+    "agent": "sarin",
+    "concentration": 0.05,
+    "reaction_rate": 0.834,
+    "timestamp": "2025-03-01T16:26:57.585305"
+  },
+  {
+    "sensor_id": 9,
+    "agent": "sarin",
+    "concentration": 0.095,
+    "reaction_rate": 0.775,
+    "timestamp": "2025-03-01T16:26:58.585305"
+  },
+  {
+    "sensor_id": 10,
+    "agent": "sarin",
+    "concentration": 0.055,
+    "reaction_rate": 0.826,
+    "timestamp": "2025-03-01T16:26:59.585305"
+  },
+  {
+    "sensor_id": 1,
+    "agent": "sarin",
+    "concentration": 0.078,
+    "reaction_rate": 0.796,
+    "timestamp": "2025-03-01T16:26:50.585305"
+  },
+  {
+    "sensor_id": 2,
+    "agent": "sarin",
+    "concentration": 0.08,
+    "reaction_rate": 0.793,
+    "timestamp": "2025-03-01T16:26:51.585305"
+  },
+  {
+    "sensor_id": 3,
+    "agent": "sarin",
+    "concentration": 0.045,
+    "reaction_rate": 0.84,
+    "timestamp": "2025-03-01T16:26:52.585305"
+  },
+  {
+    "sensor_id": 4,
+    "agent": "sarin",
+    "concentration": 0.076,
+    "reaction_rate": 0.799,
+    "timestamp": "2025-03-01T16:26:53.585305"
+  },
+  {
+    "sensor_id": 5,
+    "agent": "sarin",
+    "concentration": 0.05,
+    "reaction_rate": 0.834,
+    "timestamp": "2025-03-01T16:26:54.585305"
+  },
+  {
+    "sensor_id": 6,
+    "agent": "sarin",
+    "concentration": 0.043,
+    "reaction_rate": 0.844,
+    "timestamp": "2025-03-01T16:26:55.585305"
+  },
+  {
+    "sensor_id": 7,
+    "agent": "sarin",
+    "concentration": 0.048,
+    "reaction_rate": 0.836,
+    "timestamp": "2025-03-01T16:26:56.585305"
+  },
+  {
+    "sensor_id": 8,
+    "agent": "sarin",
+    "concentration": 0.05,
+    "reaction_rate": 0.834,
+    "timestamp": "2025-03-01T16:26:57.585305"
+  },
+  {
+    "sensor_id": 9,
+    "agent": "sarin",
+    "concentration": 0.095,
+    "reaction_rate": 0.775,
+    "timestamp": "2025-03-01T16:26:58.585305"
+  },
+  {
+    "sensor_id": 10,
+    "agent": "sarin",
+    "concentration": 0.055,
+    "reaction_rate": 0.826,
+    "timestamp": "2025-03-01T16:26:59.585305"
+  },
+  {
+    "sensor_id": 11,
+    "agent": "sarin",
+    "concentration": 0.059,
+    "reaction_rate": 0.821,
+    "timestamp": "2025-03-01T16:27:00.585305"
+  },
+  {
+    "sensor_id": 12,
+    "agent": "sarin",
+    "concentration": 0.063,
+    "reaction_rate": 0.816,
+    "timestamp": "2025-03-01T16:27:01.585305"
+  },
+  {
+    "sensor_id": 13,
+    "agent": "sarin",
+    "concentration": 0.083,
+    "reaction_rate": 0.791,
+    "timestamp": "2025-03-01T16:27:02.585305"
+  },
+  {
+    "sensor_id": 14,
+    "agent": "sarin",
+    "concentration": 0.041,
+    "reaction_rate": 0.845,
+    "timestamp": "2025-03-01T16:27:03.585305"
+  },
+  {
+    "sensor_id": 15,
+    "agent": "sarin",
+    "concentration": 0.08,
+    "reaction_rate": 0.794,
+    "timestamp": "2025-03-01T16:27:04.585305"
+  },
+  {
+    "sensor_id": 16,
+    "agent": "sarin",
+    "concentration": 0.085,
+    "reaction_rate": 0.787,
+    "timestamp": "2025-03-01T16:27:05.585305"
+  },
+  {
+    "sensor_id": 17,
+    "agent": "sarin",
+    "concentration": 0.096,
+    "reaction_rate": 0.774,
+    "timestamp": "2025-03-01T16:27:06.585305"
+  },
+  {
+    "sensor_id": 18,
+    "agent": "sarin",
+    "concentration": 0.075,
+    "reaction_rate": 0.8,
+    "timestamp": "2025-03-01T16:27:07.585305"
+  },
+  {
+    "sensor_id": 19,
+    "agent": "sarin",
+    "concentration": 0.093,
+    "reaction_rate": 0.778,
+    "timestamp": "2025-03-01T16:27:08.585305"
+  },
+  {
+    "sensor_id": 20,
+    "agent": "sarin",
+    "concentration": 0.085,
+    "reaction_rate": 0.788,
+    "timestamp": "2025-03-01T16:27:09.585305"
+  },
+  {
+    "sensor_id": 21,
+    "agent": "sarin",
+    "concentration": 0.118,
+    "reaction_rate": 0.749,
+    "timestamp": "2025-03-01T16:27:10.585305"
+  },
+  {
+    "sensor_id": 22,
+    "agent": "sarin",
+    "concentration": 0.106,
+    "reaction_rate": 0.762,
+    "timestamp": "2025-03-01T16:27:11.585305"
+  },
+  {
+    "sensor_id": 23,
+    "agent": "sarin",
+    "concentration": 0.07,
+    "reaction_rate": 0.807,
+    "timestamp": "2025-03-01T16:27:12.585305"
+  },
+  {
+    "sensor_id": 24,
+    "agent": "sarin",
+    "concentration": 0.117,
+    "reaction_rate": 0.749,
+    "timestamp": "2025-03-01T16:27:13.585305"
+  },
+  {
+    "sensor_id": 25,
+    "agent": "sarin",
+    "concentration": 0.107,
+    "reaction_rate": 0.761,
+    "timestamp": "2025-03-01T16:27:14.585305"
+  },
+  {
+    "sensor_id": 26,
+    "agent": "sarin",
+    "concentration": 0.108,
+    "reaction_rate": 0.76,
+    "timestamp": "2025-03-01T16:27:15.585305"
+  },
+  {
+    "sensor_id": 27,
+    "agent": "sarin",
+    "concentration": 0.087,
+    "reaction_rate": 0.785,
+    "timestamp": "2025-03-01T16:27:16.585305"
+  },
+  {
+    "sensor_id": 28,
+    "agent": "sarin",
+    "concentration": 0.137,
+    "reaction_rate": 0.728,
+    "timestamp": "2025-03-01T16:27:17.585305"
+  },
+  {
+    "sensor_id": 29,
+    "agent": "sarin",
+    "concentration": 0.124,
+    "reaction_rate": 0.742,
+    "timestamp": "2025-03-01T16:27:18.585305"
+  },
+  {
+    "sensor_id": 30,
+    "agent": "sarin",
+    "concentration": 0.082,
+    "reaction_rate": 0.791,
+    "timestamp": "2025-03-01T16:27:19.585305"
+  },
+  {
+    "sensor_id": 31,
+    "agent": "sarin",
+    "concentration": 0.137,
+    "reaction_rate": 0.728,
+    "timestamp": "2025-03-01T16:27:20.585305"
+  },
+  {
+    "sensor_id": 32,
+    "agent": "sarin",
+    "concentration": 0.113,
+    "reaction_rate": 0.754,
+    "timestamp": "2025-03-01T16:27:21.585305"
+  },
+  {
+    "sensor_id": 33,
+    "agent": "sarin",
+    "concentration": 0.101,
+    "reaction_rate": 0.768,
+    "timestamp": "2025-03-01T16:27:22.585305"
+  },
+  {
+    "sensor_id": 34,
+    "agent": "sarin",
+    "concentration": 0.089,
+    "reaction_rate": 0.783,
+    "timestamp": "2025-03-01T16:27:23.585305"
+  },
+  {
+    "sensor_id": 35,
+    "agent": "sarin",
+    "concentration": 0.113,
+    "reaction_rate": 0.755,
+    "timestamp": "2025-03-01T16:27:24.585305"
+  },
+  {
+    "sensor_id": 36,
+    "agent": "sarin",
+    "concentration": 0.104,
+    "reaction_rate": 0.764,
+    "timestamp": "2025-03-01T16:27:25.585305"
+  },
+  {
+    "sensor_id": 37,
+    "agent": "sarin",
+    "concentration": 0.097,
+    "reaction_rate": 0.773,
+    "timestamp": "2025-03-01T16:27:26.585305"
+  },
+  {
+    "sensor_id": 38,
+    "agent": "sarin",
+    "concentration": 0.075,
+    "reaction_rate": 0.8,
+    "timestamp": "2025-03-01T16:27:27.585305"
+  },
+  {
+    "sensor_id": 39,
+    "agent": "sarin",
+    "concentration": 0.151,
+    "reaction_rate": 0.713,
+    "timestamp": "2025-03-01T16:27:28.585305"
+  },
+  {
+    "sensor_id": 40,
+    "agent": "sarin",
+    "concentration": 0.137,
+    "reaction_rate": 0.728,
+    "timestamp": "2025-03-01T16:27:29.585305"
+  },
+  {
+    "sensor_id": 41,
+    "agent": "sarin",
+    "concentration": 0.153,
+    "reaction_rate": 0.712,
+    "timestamp": "2025-03-01T16:27:30.585305"
+  },
+  {
+    "sensor_id": 42,
+    "agent": "sarin",
+    "concentration": 0.098,
+    "reaction_rate": 0.772,
+    "timestamp": "2025-03-01T16:27:31.585305"
+  },
+  {
+    "sensor_id": 43,
+    "agent": "sarin",
+    "concentration": 0.148,
+    "reaction_rate": 0.716,
+    "timestamp": "2025-03-01T16:27:32.585305"
+  },
+  {
+    "sensor_id": 44,
+    "agent": "sarin",
+    "concentration": 0.121,
+    "reaction_rate": 0.745,
+    "timestamp": "2025-03-01T16:27:33.585305"
+  },
+  {
+    "sensor_id": 45,
+    "agent": "sarin",
+    "concentration": 0.13,
+    "reaction_rate": 0.736,
+    "timestamp": "2025-03-01T16:27:34.585305"
+  },
+  {
+    "sensor_id": 46,
+    "agent": "sarin",
+    "concentration": 0.125,
+    "reaction_rate": 0.741,
+    "timestamp": "2025-03-01T16:27:35.585305"
+  },
+  {
+    "sensor_id": 47,
+    "agent": "sarin",
+    "concentration": 0.142,
+    "reaction_rate": 0.723,
+    "timestamp": "2025-03-01T16:27:36.585305"
+  },
+  {
+    "sensor_id": 48,
+    "agent": "sarin",
+    "concentration": 0.121,
+    "reaction_rate": 0.746,
+    "timestamp": "2025-03-01T16:27:37.585305"
+  },
+  {
+    "sensor_id": 49,
+    "agent": "sarin",
+    "concentration": 0.169,
+    "reaction_rate": 0.695,
+    "timestamp": "2025-03-01T16:27:38.585305"
+  },
+  {
+    "sensor_id": 50,
+    "agent": "sarin",
+    "concentration": 0.153,
+    "reaction_rate": 0.711,
+    "timestamp": "2025-03-01T16:27:39.585305"
+  },
+  {
+    "sensor_id": 51,
+    "agent": "sarin",
+    "concentration": 0.175,
+    "reaction_rate": 0.69,
+    "timestamp": "2025-03-01T16:27:40.585305"
+  },
+  {
+    "sensor_id": 52,
+    "agent": "sarin",
+    "concentration": 0.152,
+    "reaction_rate": 0.712,
+    "timestamp": "2025-03-01T16:27:41.585305"
+  },
+  {
+    "sensor_id": 53,
+    "agent": "sarin",
+    "concentration": 0.174,
+    "reaction_rate": 0.691,
+    "timestamp": "2025-03-01T16:27:42.585305"
+  },
+  {
+    "sensor_id": 54,
+    "agent": "sarin",
+    "concentration": 0.15,
+    "reaction_rate": 0.714,
+    "timestamp": "2025-03-01T16:27:43.585305"
+  },
+  {
+    "sensor_id": 55,
+    "agent": "sarin",
+    "concentration": 0.118,
+    "reaction_rate": 0.749,
+    "timestamp": "2025-03-01T16:27:44.585305"
+  },
+  {
+    "sensor_id": 56,
+    "agent": "sarin",
+    "concentration": 0.16,
+    "reaction_rate": 0.704,
+    "timestamp": "2025-03-01T16:27:45.585305"
+  },
+  {
+    "sensor_id": 57,
+    "agent": "sarin",
+    "concentration": 0.147,
+    "reaction_rate": 0.717,
+    "timestamp": "2025-03-01T16:27:46.585305"
+  },
+  {
+    "sensor_id": 58,
+    "agent": "sarin",
+    "concentration": 0.182,
+    "reaction_rate": 0.683,
+    "timestamp": "2025-03-01T16:27:47.585305"
+  },
+  {
+    "sensor_id": 59,
+    "agent": "sarin",
+    "concentration": 0.153,
+    "reaction_rate": 0.711,
+    "timestamp": "2025-03-01T16:27:48.585305"
+  },
+  {
+    "sensor_id": 60,
+    "agent": "sarin",
+    "concentration": 0.192,
+    "reaction_rate": 0.674,
+    "timestamp": "2025-03-01T16:27:49.585305"
+  },
+  {
+    "sensor_id": 61,
+    "agent": "sarin",
+    "concentration": 0.18,
+    "reaction_rate": 0.685,
+    "timestamp": "2025-03-01T16:27:50.585305"
+  },
+  {
+    "sensor_id": 62,
+    "agent": "sarin",
+    "concentration": 0.155,
+    "reaction_rate": 0.71,
+    "timestamp": "2025-03-01T16:27:51.585305"
+  },
+  {
+    "sensor_id": 63,
+    "agent": "sarin",
+    "concentration": 0.18,
+    "reaction_rate": 0.685,
+    "timestamp": "2025-03-01T16:27:52.585305"
+  },
+  {
+    "sensor_id": 64,
+    "agent": "sarin",
+    "concentration": 0.189,
+    "reaction_rate": 0.677,
+    "timestamp": "2025-03-01T16:27:53.585305"
+  },
+  {
+    "sensor_id": 65,
+    "agent": "sarin",
+    "concentration": 0.145,
+    "reaction_rate": 0.72,
+    "timestamp": "2025-03-01T16:27:54.585305"
+  },
+  {
+    "sensor_id": 66,
+    "agent": "sarin",
+    "concentration": 0.214,
+    "reaction_rate": 0.655,
+    "timestamp": "2025-03-01T16:27:55.585305"
+  },
+  {
+    "sensor_id": 67,
+    "agent": "sarin",
+    "concentration": 0.18,
+    "reaction_rate": 0.685,
+    "timestamp": "2025-03-01T16:27:56.585305"
+  },
+  {
+    "sensor_id": 68,
+    "agent": "sarin",
+    "concentration": 0.215,
+    "reaction_rate": 0.653,
+    "timestamp": "2025-03-01T16:27:57.585305"
+  },
+  {
+    "sensor_id": 69,
+    "agent": "sarin",
+    "concentration": 0.166,
+    "reaction_rate": 0.698,
+    "timestamp": "2025-03-01T16:27:58.585305"
+  },
+  {
+    "sensor_id": 70,
+    "agent": "sarin",
+    "concentration": 0.198,
+    "reaction_rate": 0.669,
+    "timestamp": "2025-03-01T16:27:59.585305"
+  },
+  {
+    "sensor_id": 71,
+    "agent": "sarin",
+    "concentration": 0.236,
+    "reaction_rate": 0.636,
+    "timestamp": "2025-03-01T16:28:00.585305"
+  },
+  {
+    "sensor_id": 72,
+    "agent": "sarin",
+    "concentration": 0.18,
+    "reaction_rate": 0.685,
+    "timestamp": "2025-03-01T16:28:01.585305"
+  },
+  {
+    "sensor_id": 73,
+    "agent": "sarin",
+    "concentration": 0.215,
+    "reaction_rate": 0.654,
+    "timestamp": "2025-03-01T16:28:02.585305"
+  },
+  {
+    "sensor_id": 74,
+    "agent": "sarin",
+    "concentration": 0.198,
+    "reaction_rate": 0.668,
+    "timestamp": "2025-03-01T16:28:03.585305"
+  },
+  {
+    "sensor_id": 75,
+    "agent": "sarin",
+    "concentration": 0.193,
+    "reaction_rate": 0.673,
+    "timestamp": "2025-03-01T16:28:04.585305"
+  },
+  {
+    "sensor_id": 76,
+    "agent": "sarin",
+    "concentration": 0.24,
+    "reaction_rate": 0.633,
+    "timestamp": "2025-03-01T16:28:05.585305"
+  },
+  {
+    "sensor_id": 77,
+    "agent": "sarin",
+    "concentration": 0.164,
+    "reaction_rate": 0.7,
+    "timestamp": "2025-03-01T16:28:06.585305"
+  },
+  {
+    "sensor_id": 78,
+    "agent": "sarin",
+    "concentration": 0.193,
+    "reaction_rate": 0.673,
+    "timestamp": "2025-03-01T16:28:07.585305"
+  },
+  {
+    "sensor_id": 79,
+    "agent": "sarin",
+    "concentration": 0.206,
+    "reaction_rate": 0.661,
+    "timestamp": "2025-03-01T16:28:08.585305"
+  },
+  {
+    "sensor_id": 80,
+    "agent": "sarin",
+    "concentration": 0.167,
+    "reaction_rate": 0.697,
+    "timestamp": "2025-03-01T16:28:09.585305"
+  },
+  {
+    "sensor_id": 81,
+    "agent": "sarin",
+    "concentration": 0.22,
+    "reaction_rate": 0.65,
+    "timestamp": "2025-03-01T16:28:10.585305"
+  },
+  {
+    "sensor_id": 82,
+    "agent": "sarin",
+    "concentration": 0.193,
+    "reaction_rate": 0.673,
+    "timestamp": "2025-03-01T16:28:11.585305"
+  },
+  {
+    "sensor_id": 83,
+    "agent": "sarin",
+    "concentration": 0.223,
+    "reaction_rate": 0.647,
+    "timestamp": "2025-03-01T16:28:12.585305"
+  },
+  {
+    "sensor_id": 84,
+    "agent": "sarin",
+    "concentration": 0.218,
+    "reaction_rate": 0.651,
+    "timestamp": "2025-03-01T16:28:13.585305"
+  },
+  {
+    "sensor_id": 85,
+    "agent": "sarin",
+    "concentration": 0.221,
+    "reaction_rate": 0.648,
+    "timestamp": "2025-03-01T16:28:14.585305"
+  },
+  {
+    "sensor_id": 86,
+    "agent": "sarin",
+    "concentration": 0.189,
+    "reaction_rate": 0.676,
+    "timestamp": "2025-03-01T16:28:15.585305"
+  },
+  {
+    "sensor_id": 87,
+    "agent": "sarin",
+    "concentration": 0.257,
+    "reaction_rate": 0.62,
+    "timestamp": "2025-03-01T16:28:16.585305"
+  },
+  {
+    "sensor_id": 88,
+    "agent": "sarin",
+    "concentration": 0.224,
+    "reaction_rate": 0.646,
+    "timestamp": "2025-03-01T16:28:17.585305"
+  },
+  {
+    "sensor_id": 89,
+    "agent": "sarin",
+    "concentration": 0.197,
+    "reaction_rate": 0.669,
+    "timestamp": "2025-03-01T16:28:18.585305"
+  },
+  {
+    "sensor_id": 90,
+    "agent": "sarin",
+    "concentration": 0.198,
+    "reaction_rate": 0.669,
+    "timestamp": "2025-03-01T16:28:19.585305"
+  },
+  {
+    "sensor_id": 91,
+    "agent": "sarin",
+    "concentration": 0.237,
+    "reaction_rate": 0.636,
+    "timestamp": "2025-03-01T16:28:20.585305"
+  },
+  {
+    "sensor_id": 92,
+    "agent": "sarin",
+    "concentration": 0.246,
+    "reaction_rate": 0.628,
+    "timestamp": "2025-03-01T16:28:21.585305"
+  },
+  {
+    "sensor_id": 93,
+    "agent": "sarin",
+    "concentration": 0.224,
+    "reaction_rate": 0.646,
+    "timestamp": "2025-03-01T16:28:22.585305"
+  },
+  {
+    "sensor_id": 94,
+    "agent": "sarin",
+    "concentration": 0.21,
+    "reaction_rate": 0.658,
+    "timestamp": "2025-03-01T16:28:23.585305"
+  },
+  {
+    "sensor_id": 95,
+    "agent": "sarin",
+    "concentration": 0.261,
+    "reaction_rate": 0.617,
+    "timestamp": "2025-03-01T16:28:24.585305"
+  },
+  {
+    "sensor_id": 96,
+    "agent": "sarin",
+    "concentration": 0.247,
+    "reaction_rate": 0.627,
+    "timestamp": "2025-03-01T16:28:25.585305"
+  },
+  {
+    "sensor_id": 97,
+    "agent": "sarin",
+    "concentration": 0.246,
+    "reaction_rate": 0.628,
+    "timestamp": "2025-03-01T16:28:26.585305"
+  },
+  {
+    "sensor_id": 98,
+    "agent": "sarin",
+    "concentration": 0.201,
+    "reaction_rate": 0.666,
+    "timestamp": "2025-03-01T16:28:27.585305"
+  },
+  {
+    "sensor_id": 99,
+    "agent": "sarin",
+    "concentration": 0.261,
+    "reaction_rate": 0.617,
+    "timestamp": "2025-03-01T16:28:28.585305"
+  },
+  {
+    "sensor_id": 100,
+    "agent": "sarin",
+    "concentration": 0.281,
+    "reaction_rate": 0.602,
+    "timestamp": "2025-03-01T16:28:29.585305"
+  },
+  {
+    "sensor_id": 101,
+    "agent": "sarin",
+    "concentration": 0.021,
+    "reaction_rate": 0.875,
+    "timestamp": "2025-03-01T16:26:50.585305"
+  },
+  {
+    "sensor_id": 102,
+    "agent": "sarin",
+    "concentration": 0.061,
+    "reaction_rate": 0.818,
+    "timestamp": "2025-03-01T16:26:51.585305"
+  },
+  {
+    "sensor_id": 103,
+    "agent": "sarin",
+    "concentration": 0.075,
+    "reaction_rate": 0.8,
+    "timestamp": "2025-03-01T16:26:52.585305"
+  },
+  {
+    "sensor_id": 104,
+    "agent": "sarin",
+    "concentration": 0.08,
+    "reaction_rate": 0.794,
+    "timestamp": "2025-03-01T16:26:53.585305"
+  },
+  {
+    "sensor_id": 105,
+    "agent": "sarin",
+    "concentration": 0.017,
+    "reaction_rate": 0.882,
+    "timestamp": "2025-03-01T16:26:54.585305"
+  },
+  {
+    "sensor_id": 106,
+    "agent": "sarin",
+    "concentration": 0.067,
+    "reaction_rate": 0.811,
+    "timestamp": "2025-03-01T16:26:55.585305"
+  },
+  {
+    "sensor_id": 107,
+    "agent": "sarin",
+    "concentration": 0.053,
+    "reaction_rate": 0.829,
+    "timestamp": "2025-03-01T16:26:56.585305"
+  },
+  {
+    "sensor_id": 108,
+    "agent": "sarin",
+    "concentration": 0.07,
+    "reaction_rate": 0.807,
+    "timestamp": "2025-03-01T16:26:57.585305"
+  },
+  {
+    "sensor_id": 109,
+    "agent": "sarin",
+    "concentration": 0.055,
+    "reaction_rate": 0.826,
+    "timestamp": "2025-03-01T16:26:58.585305"
+  },
+  {
+    "sensor_id": 110,
+    "agent": "sarin",
+    "concentration": 0.084,
+    "reaction_rate": 0.789,
+    "timestamp": "2025-03-01T16:26:59.585305"
+  },
+  {
+    "sensor_id": 111,
+    "agent": "sarin",
+    "concentration": 0.051,
+    "reaction_rate": 0.832,
+    "timestamp": "2025-03-01T16:27:00.585305"
+  },
+  {
+    "sensor_id": 112,
+    "agent": "sarin",
+    "concentration": 0.063,
+    "reaction_rate": 0.815,
+    "timestamp": "2025-03-01T16:27:01.585305"
+  },
+  {
+    "sensor_id": 113,
+    "agent": "sarin",
+    "concentration": 0.077,
+    "reaction_rate": 0.798,
+    "timestamp": "2025-03-01T16:27:02.585305"
+  },
+  {
+    "sensor_id": 114,
+    "agent": "sarin",
+    "concentration": 0.064,
+    "reaction_rate": 0.814,
+    "timestamp": "2025-03-01T16:27:03.585305"
+  },
+  {
+    "sensor_id": 115,
+    "agent": "sarin",
+    "concentration": 0.055,
+    "reaction_rate": 0.827,
+    "timestamp": "2025-03-01T16:27:04.585305"
+  },
+  {
+    "sensor_id": 116,
+    "agent": "sarin",
+    "concentration": 0.073,
+    "reaction_rate": 0.802,
+    "timestamp": "2025-03-01T16:27:05.585305"
+  },
+  {
+    "sensor_id": 117,
+    "agent": "sarin",
+    "concentration": 0.071,
+    "reaction_rate": 0.806,
+    "timestamp": "2025-03-01T16:27:06.585305"
+  },
+  {
+    "sensor_id": 118,
+    "agent": "sarin",
+    "concentration": 0.123,
+    "reaction_rate": 0.743,
+    "timestamp": "2025-03-01T16:27:07.585305"
+  },
+  {
+    "sensor_id": 119,
+    "agent": "sarin",
+    "concentration": 0.087,
+    "reaction_rate": 0.785,
+    "timestamp": "2025-03-01T16:27:08.585305"
+  },
+  {
+    "sensor_id": 120,
+    "agent": "sarin",
+    "concentration": 0.117,
+    "reaction_rate": 0.75,
+    "timestamp": "2025-03-01T16:27:09.585305"
+  },
+  {
+    "sensor_id": 121,
+    "agent": "sarin",
+    "concentration": 0.082,
+    "reaction_rate": 0.791,
+    "timestamp": "2025-03-01T16:27:10.585305"
+  },
+  {
+    "sensor_id": 122,
+    "agent": "sarin",
+    "concentration": 0.133,
+    "reaction_rate": 0.732,
+    "timestamp": "2025-03-01T16:27:11.585305"
+  },
+  {
+    "sensor_id": 123,
+    "agent": "sarin",
+    "concentration": 0.082,
+    "reaction_rate": 0.791,
+    "timestamp": "2025-03-01T16:27:12.585305"
+  },
+  {
+    "sensor_id": 124,
+    "agent": "sarin",
+    "concentration": 0.111,
+    "reaction_rate": 0.757,
+    "timestamp": "2025-03-01T16:27:13.585305"
+  },
+  {
+    "sensor_id": 125,
+    "agent": "sarin",
+    "concentration": 0.085,
+    "reaction_rate": 0.787,
+    "timestamp": "2025-03-01T16:27:14.585305"
+  },
+  {
+    "sensor_id": 126,
+    "agent": "sarin",
+    "concentration": 0.092,
+    "reaction_rate": 0.779,
+    "timestamp": "2025-03-01T16:27:15.585305"
+  },
+  {
+    "sensor_id": 127,
+    "agent": "sarin",
+    "concentration": 0.087,
+    "reaction_rate": 0.785,
+    "timestamp": "2025-03-01T16:27:16.585305"
+  },
+  {
+    "sensor_id": 128,
+    "agent": "sarin",
+    "concentration": 0.134,
+    "reaction_rate": 0.731,
+    "timestamp": "2025-03-01T16:27:17.585305"
+  },
+  {
+    "sensor_id": 129,
+    "agent": "sarin",
+    "concentration": 0.062,
+    "reaction_rate": 0.817,
+    "timestamp": "2025-03-01T16:27:18.585305"
+  },
+  {
+    "sensor_id": 130,
+    "agent": "sarin",
+    "concentration": 0.068,
+    "reaction_rate": 0.809,
+    "timestamp": "2025-03-01T16:27:19.585305"
+  },
+  {
+    "sensor_id": 131,
+    "agent": "sarin",
+    "concentration": 0.092,
+    "reaction_rate": 0.779,
+    "timestamp": "2025-03-01T16:27:20.585305"
+  },
+  {
+    "sensor_id": 132,
+    "agent": "sarin",
+    "concentration": 0.122,
+    "reaction_rate": 0.744,
+    "timestamp": "2025-03-01T16:27:21.585305"
+  },
+  {
+    "sensor_id": 133,
+    "agent": "sarin",
+    "concentration": 0.111,
+    "reaction_rate": 0.757,
+    "timestamp": "2025-03-01T16:27:22.585305"
+  },
+  {
+    "sensor_id": 134,
+    "agent": "sarin",
+    "concentration": 0.148,
+    "reaction_rate": 0.716,
+    "timestamp": "2025-03-01T16:27:23.585305"
+  },
+  {
+    "sensor_id": 135,
+    "agent": "sarin",
+    "concentration": 0.108,
+    "reaction_rate": 0.76,
+    "timestamp": "2025-03-01T16:27:24.585305"
+  },
+  {
+    "sensor_id": 136,
+    "agent": "sarin",
+    "concentration": 0.096,
+    "reaction_rate": 0.775,
+    "timestamp": "2025-03-01T16:27:25.585305"
+  },
+  {
+    "sensor_id": 137,
+    "agent": "sarin",
+    "concentration": 0.112,
+    "reaction_rate": 0.755,
+    "timestamp": "2025-03-01T16:27:26.585305"
+  },
+  {
+    "sensor_id": 138,
+    "agent": "sarin",
+    "concentration": 0.124,
+    "reaction_rate": 0.741,
+    "timestamp": "2025-03-01T16:27:27.585305"
+  },
+  {
+    "sensor_id": 139,
+    "agent": "sarin",
+    "concentration": 0.147,
+    "reaction_rate": 0.717,
+    "timestamp": "2025-03-01T16:27:28.585305"
+  },
+  {
+    "sensor_id": 140,
+    "agent": "sarin",
+    "concentration": 0.126,
+    "reaction_rate": 0.739,
+    "timestamp": "2025-03-01T16:27:29.585305"
+  },
+  {
+    "sensor_id": 141,
+    "agent": "sarin",
+    "concentration": 0.142,
+    "reaction_rate": 0.722,
+    "timestamp": "2025-03-01T16:27:30.585305"
+  },
+  {
+    "sensor_id": 142,
+    "agent": "sarin",
+    "concentration": 0.152,
+    "reaction_rate": 0.712,
+    "timestamp": "2025-03-01T16:27:31.585305"
+  },
+  {
+    "sensor_id": 143,
+    "agent": "sarin",
+    "concentration": 0.093,
+    "reaction_rate": 0.777,
+    "timestamp": "2025-03-01T16:27:32.585305"
+  },
+  {
+    "sensor_id": 144,
+    "agent": "sarin",
+    "concentration": 0.093,
+    "reaction_rate": 0.778,
+    "timestamp": "2025-03-01T16:27:33.585305"
+  },
+  {
+    "sensor_id": 145,
+    "agent": "sarin",
+    "concentration": 0.149,
+    "reaction_rate": 0.715,
+    "timestamp": "2025-03-01T16:27:34.585305"
+  },
+  {
+    "sensor_id": 146,
+    "agent": "sarin",
+    "concentration": 0.098,
+    "reaction_rate": 0.772,
+    "timestamp": "2025-03-01T16:27:35.585305"
+  },
+  {
+    "sensor_id": 147,
+    "agent": "sarin",
+    "concentration": 0.121,
+    "reaction_rate": 0.746,
+    "timestamp": "2025-03-01T16:27:36.585305"
+  },
+  {
+    "sensor_id": 148,
+    "agent": "sarin",
+    "concentration": 0.13,
+    "reaction_rate": 0.735,
+    "timestamp": "2025-03-01T16:27:37.585305"
+  },
+  {
+    "sensor_id": 149,
+    "agent": "sarin",
+    "concentration": 0.184,
+    "reaction_rate": 0.681,
+    "timestamp": "2025-03-01T16:27:38.585305"
+  },
+  {
+    "sensor_id": 150,
+    "agent": "sarin",
+    "concentration": 0.147,
+    "reaction_rate": 0.717,
+    "timestamp": "2025-03-01T16:27:39.585305"
+  },
+  {
+    "sensor_id": 151,
+    "agent": "sarin",
+    "concentration": 0.133,
+    "reaction_rate": 0.732,
+    "timestamp": "2025-03-01T16:27:40.585305"
+  },
+  {
+    "sensor_id": 152,
+    "agent": "sarin",
+    "concentration": 0.162,
+    "reaction_rate": 0.702,
+    "timestamp": "2025-03-01T16:27:41.585305"
+  },
+  {
+    "sensor_id": 153,
+    "agent": "sarin",
+    "concentration": 0.175,
+    "reaction_rate": 0.69,
+    "timestamp": "2025-03-01T16:27:42.585305"
+  },
+  {
+    "sensor_id": 154,
+    "agent": "sarin",
+    "concentration": 0.185,
+    "reaction_rate": 0.68,
+    "timestamp": "2025-03-01T16:27:43.585305"
+  },
+  {
+    "sensor_id": 155,
+    "agent": "sarin",
+    "concentration": 0.121,
+    "reaction_rate": 0.745,
+    "timestamp": "2025-03-01T16:27:44.585305"
+  },
+  {
+    "sensor_id": 156,
+    "agent": "sarin",
+    "concentration": 0.183,
+    "reaction_rate": 0.682,
+    "timestamp": "2025-03-01T16:27:45.585305"
+  },
+  {
+    "sensor_id": 157,
+    "agent": "sarin",
+    "concentration": 0.184,
+    "reaction_rate": 0.682,
+    "timestamp": "2025-03-01T16:27:46.585305"
+  },
+  {
+    "sensor_id": 158,
+    "agent": "sarin",
+    "concentration": 0.171,
+    "reaction_rate": 0.694,
+    "timestamp": "2025-03-01T16:27:47.585305"
+  },
+  {
+    "sensor_id": 159,
+    "agent": "sarin",
+    "concentration": 0.162,
+    "reaction_rate": 0.703,
+    "timestamp": "2025-03-01T16:27:48.585305"
+  },
+  {
+    "sensor_id": 160,
+    "agent": "sarin",
+    "concentration": 0.132,
+    "reaction_rate": 0.733,
+    "timestamp": "2025-03-01T16:27:49.585305"
+  },
+  {
+    "sensor_id": 161,
+    "agent": "sarin",
+    "concentration": 0.162,
+    "reaction_rate": 0.702,
+    "timestamp": "2025-03-01T16:27:50.585305"
+  },
+  {
+    "sensor_id": 162,
+    "agent": "sarin",
+    "concentration": 0.178,
+    "reaction_rate": 0.687,
+    "timestamp": "2025-03-01T16:27:51.585305"
+  },
+  {
+    "sensor_id": 163,
+    "agent": "sarin",
+    "concentration": 0.183,
+    "reaction_rate": 0.682,
+    "timestamp": "2025-03-01T16:27:52.585305"
+  },
+  {
+    "sensor_id": 164,
+    "agent": "sarin",
+    "concentration": 0.179,
+    "reaction_rate": 0.686,
+    "timestamp": "2025-03-01T16:27:53.585305"
+  },
+  {
+    "sensor_id": 165,
+    "agent": "sarin",
+    "concentration": 0.144,
+    "reaction_rate": 0.72,
+    "timestamp": "2025-03-01T16:27:54.585305"
+  },
+  {
+    "sensor_id": 166,
+    "agent": "sarin",
+    "concentration": 0.211,
+    "reaction_rate": 0.657,
+    "timestamp": "2025-03-01T16:27:55.585305"
+  },
+  {
+    "sensor_id": 167,
+    "agent": "sarin",
+    "concentration": 0.183,
+    "reaction_rate": 0.682,
+    "timestamp": "2025-03-01T16:27:56.585305"
+  },
+  {
+    "sensor_id": 168,
+    "agent": "sarin",
+    "concentration": 0.14,
+    "reaction_rate": 0.725,
+    "timestamp": "2025-03-01T16:27:57.585305"
+  },
+  {
+    "sensor_id": 169,
+    "agent": "sarin",
+    "concentration": 0.196,
+    "reaction_rate": 0.671,
+    "timestamp": "2025-03-01T16:27:58.585305"
+  },
+  {
+    "sensor_id": 170,
+    "agent": "sarin",
+    "concentration": 0.153,
+    "reaction_rate": 0.712,
+    "timestamp": "2025-03-01T16:27:59.585305"
+  },
+  {
+    "sensor_id": 171,
+    "agent": "sarin",
+    "concentration": 0.187,
+    "reaction_rate": 0.678,
+    "timestamp": "2025-03-01T16:28:00.585305"
+  },
+  {
+    "sensor_id": 172,
+    "agent": "sarin",
+    "concentration": 0.174,
+    "reaction_rate": 0.69,
+    "timestamp": "2025-03-01T16:28:01.585305"
+  },
+  {
+    "sensor_id": 173,
+    "agent": "sarin",
+    "concentration": 0.243,
+    "reaction_rate": 0.63,
+    "timestamp": "2025-03-01T16:28:02.585305"
+  },
+  {
+    "sensor_id": 174,
+    "agent": "sarin",
+    "concentration": 0.197,
+    "reaction_rate": 0.669,
+    "timestamp": "2025-03-01T16:28:03.585305"
+  },
+  {
+    "sensor_id": 175,
+    "agent": "sarin",
+    "concentration": 0.162,
+    "reaction_rate": 0.702,
+    "timestamp": "2025-03-01T16:28:04.585305"
+  },
+  {
+    "sensor_id": 176,
+    "agent": "sarin",
+    "concentration": 0.223,
+    "reaction_rate": 0.647,
+    "timestamp": "2025-03-01T16:28:05.585305"
+  },
+  {
+    "sensor_id": 177,
+    "agent": "sarin",
+    "concentration": 0.185,
+    "reaction_rate": 0.68,
+    "timestamp": "2025-03-01T16:28:06.585305"
+  },
+  {
+    "sensor_id": 178,
+    "agent": "sarin",
+    "concentration": 0.235,
+    "reaction_rate": 0.637,
+    "timestamp": "2025-03-01T16:28:07.585305"
+  },
+  {
+    "sensor_id": 179,
+    "agent": "sarin",
+    "concentration": 0.139,
+    "reaction_rate": 0.726,
+    "timestamp": "2025-03-01T16:28:08.585305"
+  },
+  {
+    "sensor_id": 180,
+    "agent": "sarin",
+    "concentration": 0.211,
+    "reaction_rate": 0.657,
+    "timestamp": "2025-03-01T16:28:09.585305"
+  },
+  {
+    "sensor_id": 181,
+    "agent": "sarin",
+    "concentration": 0.191,
+    "reaction_rate": 0.675,
+    "timestamp": "2025-03-01T16:28:10.585305"
+  },
+  {
+    "sensor_id": 182,
+    "agent": "sarin",
+    "concentration": 0.203,
+    "reaction_rate": 0.664,
+    "timestamp": "2025-03-01T16:28:11.585305"
+  },
+  {
+    "sensor_id": 183,
+    "agent": "sarin",
+    "concentration": 0.236,
+    "reaction_rate": 0.636,
+    "timestamp": "2025-03-01T16:28:12.585305"
+  },
+  {
+    "sensor_id": 184,
+    "agent": "sarin",
+    "concentration": 0.198,
+    "reaction_rate": 0.669,
+    "timestamp": "2025-03-01T16:28:13.585305"
+  },
+  {
+    "sensor_id": 185,
+    "agent": "sarin",
+    "concentration": 0.231,
+    "reaction_rate": 0.64,
+    "timestamp": "2025-03-01T16:28:14.585305"
+  },
+  {
+    "sensor_id": 186,
+    "agent": "sarin",
+    "concentration": 0.223,
+    "reaction_rate": 0.647,
+    "timestamp": "2025-03-01T16:28:15.585305"
+  },
+  {
+    "sensor_id": 187,
+    "agent": "sarin",
+    "concentration": 0.246,
+    "reaction_rate": 0.628,
+    "timestamp": "2025-03-01T16:28:16.585305"
+  },
+  {
+    "sensor_id": 188,
+    "agent": "sarin",
+    "concentration": 0.206,
+    "reaction_rate": 0.662,
+    "timestamp": "2025-03-01T16:28:17.585305"
+  },
+  {
+    "sensor_id": 189,
+    "agent": "sarin",
+    "concentration": 0.213,
+    "reaction_rate": 0.655,
+    "timestamp": "2025-03-01T16:28:18.585305"
+  },
+  {
+    "sensor_id": 190,
+    "agent": "sarin",
+    "concentration": 0.189,
+    "reaction_rate": 0.677,
+    "timestamp": "2025-03-01T16:28:19.585305"
+  },
+  {
+    "sensor_id": 191,
+    "agent": "sarin",
+    "concentration": 0.228,
+    "reaction_rate": 0.642,
+    "timestamp": "2025-03-01T16:28:20.585305"
+  },
+  {
+    "sensor_id": 192,
+    "agent": "sarin",
+    "concentration": 0.222,
+    "reaction_rate": 0.648,
+    "timestamp": "2025-03-01T16:28:21.585305"
+  },
+  {
+    "sensor_id": 193,
+    "agent": "sarin",
+    "concentration": 0.225,
+    "reaction_rate": 0.645,
+    "timestamp": "2025-03-01T16:28:22.585305"
+  },
+  {
+    "sensor_id": 194,
+    "agent": "sarin",
+    "concentration": 0.226,
+    "reaction_rate": 0.644,
+    "timestamp": "2025-03-01T16:28:23.585305"
+  },
+  {
+    "sensor_id": 195,
+    "agent": "sarin",
+    "concentration": 0.234,
+    "reaction_rate": 0.638,
+    "timestamp": "2025-03-01T16:28:24.585305"
+  },
+  {
+    "sensor_id": 196,
+    "agent": "sarin",
+    "concentration": 0.235,
+    "reaction_rate": 0.637,
+    "timestamp": "2025-03-01T16:28:25.585305"
+  },
+  {
+    "sensor_id": 197,
+    "agent": "sarin",
+    "concentration": 0.241,
+    "reaction_rate": 0.632,
+    "timestamp": "2025-03-01T16:28:26.585305"
+  },
+  {
+    "sensor_id": 198,
+    "agent": "sarin",
+    "concentration": 0.266,
+    "reaction_rate": 0.613,
+    "timestamp": "2025-03-01T16:28:27.585305"
+  },
+  {
+    "sensor_id": 199,
+    "agent": "sarin",
+    "concentration": 0.249,
+    "reaction_rate": 0.626,
+    "timestamp": "2025-03-01T16:28:28.585305"
+  },
+  {
+    "sensor_id": 200,
+    "agent": "sarin",
+    "concentration": 0.245,
+    "reaction_rate": 0.629,
+    "timestamp": "2025-03-01T16:28:29.585305"
+  },
+  {
+    "sensor_id": 201,
+    "agent": "sarin",
+    "concentration": 0.07,
+    "reaction_rate": 0.806,
+    "timestamp": "2025-03-01T16:26:50.585305"
+  },
+  {
+    "sensor_id": 202,
+    "agent": "sarin",
+    "concentration": 0.06,
+    "reaction_rate": 0.82,
+    "timestamp": "2025-03-01T16:26:51.585305"
+  },
+  {
+    "sensor_id": 203,
+    "agent": "sarin",
+    "concentration": 0.052,
+    "reaction_rate": 0.83,
+    "timestamp": "2025-03-01T16:26:52.585305"
+  },
+  {
+    "sensor_id": 204,
+    "agent": "sarin",
+    "concentration": 0.085,
+    "reaction_rate": 0.787,
+    "timestamp": "2025-03-01T16:26:53.585305"
+  },
+  {
+    "sensor_id": 205,
+    "agent": "sarin",
+    "concentration": 0.059,
+    "reaction_rate": 0.822,
+    "timestamp": "2025-03-01T16:26:54.585305"
+  },
+  {
+    "sensor_id": 206,
+    "agent": "sarin",
+    "concentration": 0.019,
+    "reaction_rate": 0.879,
+    "timestamp": "2025-03-01T16:26:55.585305"
+  },
+  {
+    "sensor_id": 207,
+    "agent": "sarin",
+    "concentration": 0.112,
+    "reaction_rate": 0.755,
+    "timestamp": "2025-03-01T16:26:56.585305"
+  },
+  {
+    "sensor_id": 208,
+    "agent": "sarin",
+    "concentration": 0.002,
+    "reaction_rate": 0.906,
+    "timestamp": "2025-03-01T16:26:57.585305"
+  },
+  {
+    "sensor_id": 209,
+    "agent": "sarin",
+    "concentration": 0.043,
+    "reaction_rate": 0.843,
+    "timestamp": "2025-03-01T16:26:58.585305"
+  },
+  {
+    "sensor_id": 210,
+    "agent": "sarin",
+    "concentration": 0.065,
+    "reaction_rate": 0.813,
+    "timestamp": "2025-03-01T16:26:59.585305"
+  },
+  {
+    "sensor_id": 211,
+    "agent": "sarin",
+    "concentration": 0.045,
+    "reaction_rate": 0.84,
+    "timestamp": "2025-03-01T16:27:00.585305"
+  },
+  {
+    "sensor_id": 212,
+    "agent": "sarin",
+    "concentration": 0.091,
+    "reaction_rate": 0.78,
+    "timestamp": "2025-03-01T16:27:01.585305"
+  },
+  {
+    "sensor_id": 213,
+    "agent": "sarin",
+    "concentration": 0.087,
+    "reaction_rate": 0.785,
+    "timestamp": "2025-03-01T16:27:02.585305"
+  },
+  {
+    "sensor_id": 214,
+    "agent": "sarin",
+    "concentration": 0.07,
+    "reaction_rate": 0.806,
+    "timestamp": "2025-03-01T16:27:03.585305"
+  },
+  {
+    "sensor_id": 215,
+    "agent": "sarin",
+    "concentration": 0.071,
+    "reaction_rate": 0.806,
+    "timestamp": "2025-03-01T16:27:04.585305"
+  },
+  {
+    "sensor_id": 216,
+    "agent": "sarin",
+    "concentration": 0.082,
+    "reaction_rate": 0.792,
+    "timestamp": "2025-03-01T16:27:05.585305"
+  },
+  {
+    "sensor_id": 217,
+    "agent": "sarin",
+    "concentration": 0.086,
+    "reaction_rate": 0.787,
+    "timestamp": "2025-03-01T16:27:06.585305"
+  },
+  {
+    "sensor_id": 218,
+    "agent": "sarin",
+    "concentration": 0.086,
+    "reaction_rate": 0.786,
+    "timestamp": "2025-03-01T16:27:07.585305"
+  },
+  {
+    "sensor_id": 219,
+    "agent": "sarin",
+    "concentration": 0.069,
+    "reaction_rate": 0.808,
+    "timestamp": "2025-03-01T16:27:08.585305"
+  },
+  {
+    "sensor_id": 220,
+    "agent": "sarin",
+    "concentration": 0.115,
+    "reaction_rate": 0.752,
+    "timestamp": "2025-03-01T16:27:09.585305"
+  },
+  {
+    "sensor_id": 221,
+    "agent": "sarin",
+    "concentration": 0.079,
+    "reaction_rate": 0.795,
+    "timestamp": "2025-03-01T16:27:10.585305"
+  },
+  {
+    "sensor_id": 222,
+    "agent": "sarin",
+    "concentration": 0.106,
+    "reaction_rate": 0.762,
+    "timestamp": "2025-03-01T16:27:11.585305"
+  },
+  {
+    "sensor_id": 223,
+    "agent": "sarin",
+    "concentration": 0.07,
+    "reaction_rate": 0.807,
+    "timestamp": "2025-03-01T16:27:12.585305"
+  },
+  {
+    "sensor_id": 224,
+    "agent": "sarin",
+    "concentration": 0.097,
+    "reaction_rate": 0.772,
+    "timestamp": "2025-03-01T16:27:13.585305"
+  },
+  {
+    "sensor_id": 225,
+    "agent": "sarin",
+    "concentration": 0.085,
+    "reaction_rate": 0.787,
+    "timestamp": "2025-03-01T16:27:14.585305"
+  },
+  {
+    "sensor_id": 226,
+    "agent": "sarin",
+    "concentration": 0.086,
+    "reaction_rate": 0.786,
+    "timestamp": "2025-03-01T16:27:15.585305"
+  },
+  {
+    "sensor_id": 227,
+    "agent": "sarin",
+    "concentration": 0.141,
+    "reaction_rate": 0.723,
+    "timestamp": "2025-03-01T16:27:16.585305"
+  },
+  {
+    "sensor_id": 228,
+    "agent": "sarin",
+    "concentration": 0.092,
+    "reaction_rate": 0.779,
+    "timestamp": "2025-03-01T16:27:17.585305"
+  },
+  {
+    "sensor_id": 229,
+    "agent": "sarin",
+    "concentration": 0.12,
+    "reaction_rate": 0.746,
+    "timestamp": "2025-03-01T16:27:18.585305"
+  },
+  {
+    "sensor_id": 230,
+    "agent": "sarin",
+    "concentration": 0.106,
+    "reaction_rate": 0.762,
+    "timestamp": "2025-03-01T16:27:19.585305"
+  },
+  {
+    "sensor_id": 231,
+    "agent": "sarin",
+    "concentration": 0.126,
+    "reaction_rate": 0.739,
+    "timestamp": "2025-03-01T16:27:20.585305"
+  },
+  {
+    "sensor_id": 232,
+    "agent": "sarin",
+    "concentration": 0.101,
+    "reaction_rate": 0.769,
+    "timestamp": "2025-03-01T16:27:21.585305"
+  },
+  {
+    "sensor_id": 233,
+    "agent": "sarin",
+    "concentration": 0.099,
+    "reaction_rate": 0.77,
+    "timestamp": "2025-03-01T16:27:22.585305"
+  },
+  {
+    "sensor_id": 234,
+    "agent": "sarin",
+    "concentration": 0.119,
+    "reaction_rate": 0.748,
+    "timestamp": "2025-03-01T16:27:23.585305"
+  },
+  {
+    "sensor_id": 235,
+    "agent": "sarin",
+    "concentration": 0.118,
+    "reaction_rate": 0.748,
+    "timestamp": "2025-03-01T16:27:24.585305"
+  },
+  {
+    "sensor_id": 236,
+    "agent": "sarin",
+    "concentration": 0.136,
+    "reaction_rate": 0.729,
+    "timestamp": "2025-03-01T16:27:25.585305"
+  },
+  {
+    "sensor_id": 237,
+    "agent": "sarin",
+    "concentration": 0.077,
+    "reaction_rate": 0.798,
+    "timestamp": "2025-03-01T16:27:26.585305"
+  },
+  {
+    "sensor_id": 238,
+    "agent": "sarin",
+    "concentration": 0.132,
+    "reaction_rate": 0.733,
+    "timestamp": "2025-03-01T16:27:27.585305"
+  },
+  {
+    "sensor_id": 239,
+    "agent": "sarin",
+    "concentration": 0.114,
+    "reaction_rate": 0.753,
+    "timestamp": "2025-03-01T16:27:28.585305"
+  },
+  {
+    "sensor_id": 240,
+    "agent": "sarin",
+    "concentration": 0.116,
+    "reaction_rate": 0.751,
+    "timestamp": "2025-03-01T16:27:29.585305"
+  },
+  {
+    "sensor_id": 241,
+    "agent": "sarin",
+    "concentration": 0.095,
+    "reaction_rate": 0.775,
+    "timestamp": "2025-03-01T16:27:30.585305"
+  },
+  {
+    "sensor_id": 242,
+    "agent": "sarin",
+    "concentration": 0.153,
+    "reaction_rate": 0.711,
+    "timestamp": "2025-03-01T16:27:31.585305"
+  },
+  {
+    "sensor_id": 243,
+    "agent": "sarin",
+    "concentration": 0.108,
+    "reaction_rate": 0.76,
+    "timestamp": "2025-03-01T16:27:32.585305"
+  },
+  {
+    "sensor_id": 244,
+    "agent": "sarin",
+    "concentration": 0.126,
+    "reaction_rate": 0.74,
+    "timestamp": "2025-03-01T16:27:33.585305"
+  },
+  {
+    "sensor_id": 245,
+    "agent": "sarin",
+    "concentration": 0.144,
+    "reaction_rate": 0.72,
+    "timestamp": "2025-03-01T16:27:34.585305"
+  },
+  {
+    "sensor_id": 246,
+    "agent": "sarin",
+    "concentration": 0.125,
+    "reaction_rate": 0.741,
+    "timestamp": "2025-03-01T16:27:35.585305"
+  },
+  {
+    "sensor_id": 247,
+    "agent": "sarin",
+    "concentration": 0.167,
+    "reaction_rate": 0.698,
+    "timestamp": "2025-03-01T16:27:36.585305"
+  },
+  {
+    "sensor_id": 248,
+    "agent": "sarin",
+    "concentration": 0.142,
+    "reaction_rate": 0.722,
+    "timestamp": "2025-03-01T16:27:37.585305"
+  },
+  {
+    "sensor_id": 249,
+    "agent": "sarin",
+    "concentration": 0.17,
+    "reaction_rate": 0.695,
+    "timestamp": "2025-03-01T16:27:38.585305"
+  },
+  {
+    "sensor_id": 250,
+    "agent": "sarin",
+    "concentration": 0.159,
+    "reaction_rate": 0.705,
+    "timestamp": "2025-03-01T16:27:39.585305"
+  },
+  {
+    "sensor_id": 251,
+    "agent": "sarin",
+    "concentration": 0.155,
+    "reaction_rate": 0.709,
+    "timestamp": "2025-03-01T16:27:40.585305"
+  },
+  {
+    "sensor_id": 252,
+    "agent": "sarin",
+    "concentration": 0.157,
+    "reaction_rate": 0.708,
+    "timestamp": "2025-03-01T16:27:41.585305"
+  },
+  {
+    "sensor_id": 253,
+    "agent": "sarin",
+    "concentration": 0.194,
+    "reaction_rate": 0.672,
+    "timestamp": "2025-03-01T16:27:42.585305"
+  },
+  {
+    "sensor_id": 254,
+    "agent": "sarin",
+    "concentration": 0.162,
+    "reaction_rate": 0.703,
+    "timestamp": "2025-03-01T16:27:43.585305"
+  },
+  {
+    "sensor_id": 255,
+    "agent": "sarin",
+    "concentration": 0.143,
+    "reaction_rate": 0.722,
+    "timestamp": "2025-03-01T16:27:44.585305"
+  },
+  {
+    "sensor_id": 256,
+    "agent": "sarin",
+    "concentration": 0.13,
+    "reaction_rate": 0.736,
+    "timestamp": "2025-03-01T16:27:45.585305"
+  },
+  {
+    "sensor_id": 257,
+    "agent": "sarin",
+    "concentration": 0.185,
+    "reaction_rate": 0.68,
+    "timestamp": "2025-03-01T16:27:46.585305"
+  },
+  {
+    "sensor_id": 258,
+    "agent": "sarin",
+    "concentration": 0.168,
+    "reaction_rate": 0.697,
+    "timestamp": "2025-03-01T16:27:47.585305"
+  },
+  {
+    "sensor_id": 259,
+    "agent": "sarin",
+    "concentration": 0.131,
+    "reaction_rate": 0.734,
+    "timestamp": "2025-03-01T16:27:48.585305"
+  },
+  {
+    "sensor_id": 260,
+    "agent": "sarin",
+    "concentration": 0.184,
+    "reaction_rate": 0.681,
+    "timestamp": "2025-03-01T16:27:49.585305"
+  },
+  {
+    "sensor_id": 261,
+    "agent": "sarin",
+    "concentration": 0.177,
+    "reaction_rate": 0.688,
+    "timestamp": "2025-03-01T16:27:50.585305"
+  },
+  {
+    "sensor_id": 262,
+    "agent": "sarin",
+    "concentration": 0.142,
+    "reaction_rate": 0.722,
+    "timestamp": "2025-03-01T16:27:51.585305"
+  },
+  {
+    "sensor_id": 263,
+    "agent": "sarin",
+    "concentration": 0.187,
+    "reaction_rate": 0.679,
+    "timestamp": "2025-03-01T16:27:52.585305"
+  },
+  {
+    "sensor_id": 264,
+    "agent": "sarin",
+    "concentration": 0.171,
+    "reaction_rate": 0.693,
+    "timestamp": "2025-03-01T16:27:53.585305"
+  },
+  {
+    "sensor_id": 265,
+    "agent": "sarin",
+    "concentration": 0.177,
+    "reaction_rate": 0.687,
+    "timestamp": "2025-03-01T16:27:54.585305"
+  },
+  {
+    "sensor_id": 266,
+    "agent": "sarin",
+    "concentration": 0.185,
+    "reaction_rate": 0.681,
+    "timestamp": "2025-03-01T16:27:55.585305"
+  },
+  {
+    "sensor_id": 267,
+    "agent": "sarin",
+    "concentration": 0.134,
+    "reaction_rate": 0.731,
+    "timestamp": "2025-03-01T16:27:56.585305"
+  },
+  {
+    "sensor_id": 268,
+    "agent": "sarin",
+    "concentration": 0.18,
+    "reaction_rate": 0.685,
+    "timestamp": "2025-03-01T16:27:57.585305"
+  },
+  {
+    "sensor_id": 269,
+    "agent": "sarin",
+    "concentration": 0.19,
+    "reaction_rate": 0.676,
+    "timestamp": "2025-03-01T16:27:58.585305"
+  },
+  {
+    "sensor_id": 270,
+    "agent": "sarin",
+    "concentration": 0.156,
+    "reaction_rate": 0.708,
+    "timestamp": "2025-03-01T16:27:59.585305"
+  },
+  {
+    "sensor_id": 271,
+    "agent": "sarin",
+    "concentration": 0.175,
+    "reaction_rate": 0.689,
+    "timestamp": "2025-03-01T16:28:00.585305"
+  },
+  {
+    "sensor_id": 272,
+    "agent": "sarin",
+    "concentration": 0.226,
+    "reaction_rate": 0.644,
+    "timestamp": "2025-03-01T16:28:01.585305"
+  },
+  {
+    "sensor_id": 273,
+    "agent": "sarin",
+    "concentration": 0.204,
+    "reaction_rate": 0.663,
+    "timestamp": "2025-03-01T16:28:02.585305"
+  },
+  {
+    "sensor_id": 274,
+    "agent": "sarin",
+    "concentration": 0.2,
+    "reaction_rate": 0.667,
+    "timestamp": "2025-03-01T16:28:03.585305"
+  },
+  {
+    "sensor_id": 275,
+    "agent": "sarin",
+    "concentration": 0.213,
+    "reaction_rate": 0.655,
+    "timestamp": "2025-03-01T16:28:04.585305"
+  },
+  {
+    "sensor_id": 276,
+    "agent": "sarin",
+    "concentration": 0.174,
+    "reaction_rate": 0.691,
+    "timestamp": "2025-03-01T16:28:05.585305"
+  },
+  {
+    "sensor_id": 277,
+    "agent": "sarin",
+    "concentration": 0.171,
+    "reaction_rate": 0.693,
+    "timestamp": "2025-03-01T16:28:06.585305"
+  },
+  {
+    "sensor_id": 278,
+    "agent": "sarin",
+    "concentration": 0.2,
+    "reaction_rate": 0.667,
+    "timestamp": "2025-03-01T16:28:07.585305"
+  },
+  {
+    "sensor_id": 279,
+    "agent": "sarin",
+    "concentration": 0.202,
+    "reaction_rate": 0.665,
+    "timestamp": "2025-03-01T16:28:08.585305"
+  },
+  {
+    "sensor_id": 280,
+    "agent": "sarin",
+    "concentration": 0.247,
+    "reaction_rate": 0.627,
+    "timestamp": "2025-03-01T16:28:09.585305"
+  },
+  {
+    "sensor_id": 281,
+    "agent": "sarin",
+    "concentration": 0.23,
+    "reaction_rate": 0.641,
+    "timestamp": "2025-03-01T16:28:10.585305"
+  },
+  {
+    "sensor_id": 282,
+    "agent": "sarin",
+    "concentration": 0.192,
+    "reaction_rate": 0.674,
+    "timestamp": "2025-03-01T16:28:11.585305"
+  },
+  {
+    "sensor_id": 283,
+    "agent": "sarin",
+    "concentration": 0.204,
+    "reaction_rate": 0.663,
+    "timestamp": "2025-03-01T16:28:12.585305"
+  },
+  {
+    "sensor_id": 284,
+    "agent": "sarin",
+    "concentration": 0.228,
+    "reaction_rate": 0.643,
+    "timestamp": "2025-03-01T16:28:13.585305"
+  },
+  {
+    "sensor_id": 285,
+    "agent": "sarin",
+    "concentration": 0.244,
+    "reaction_rate": 0.63,
+    "timestamp": "2025-03-01T16:28:14.585305"
+  },
+  {
+    "sensor_id": 286,
+    "agent": "sarin",
+    "concentration": 0.197,
+    "reaction_rate": 0.669,
+    "timestamp": "2025-03-01T16:28:15.585305"
+  },
+  {
+    "sensor_id": 287,
+    "agent": "sarin",
+    "concentration": 0.186,
+    "reaction_rate": 0.679,
+    "timestamp": "2025-03-01T16:28:16.585305"
+  },
+  {
+    "sensor_id": 288,
+    "agent": "sarin",
+    "concentration": 0.22,
+    "reaction_rate": 0.649,
+    "timestamp": "2025-03-01T16:28:17.585305"
+  },
+  {
+    "sensor_id": 289,
+    "agent": "sarin",
+    "concentration": 0.248,
+    "reaction_rate": 0.626,
+    "timestamp": "2025-03-01T16:28:18.585305"
+  },
+  {
+    "sensor_id": 290,
+    "agent": "sarin",
+    "concentration": 0.238,
+    "reaction_rate": 0.634,
+    "timestamp": "2025-03-01T16:28:19.585305"
+  },
+  {
+    "sensor_id": 291,
+    "agent": "sarin",
+    "concentration": 0.241,
+    "reaction_rate": 0.632,
+    "timestamp": "2025-03-01T16:28:20.585305"
+  },
+  {
+    "sensor_id": 292,
+    "agent": "sarin",
+    "concentration": 0.23,
+    "reaction_rate": 0.641,
+    "timestamp": "2025-03-01T16:28:21.585305"
+  },
+  {
+    "sensor_id": 293,
+    "agent": "sarin",
+    "concentration": 0.215,
+    "reaction_rate": 0.654,
+    "timestamp": "2025-03-01T16:28:22.585305"
+  },
+  {
+    "sensor_id": 294,
+    "agent": "sarin",
+    "concentration": 0.262,
+    "reaction_rate": 0.616,
+    "timestamp": "2025-03-01T16:28:23.585305"
+  },
+  {
+    "sensor_id": 295,
+    "agent": "sarin",
+    "concentration": 0.225,
+    "reaction_rate": 0.645,
+    "timestamp": "2025-03-01T16:28:24.585305"
+  },
+  {
+    "sensor_id": 296,
+    "agent": "sarin",
+    "concentration": 0.265,
+    "reaction_rate": 0.613,
+    "timestamp": "2025-03-01T16:28:25.585305"
+  },
+  {
+    "sensor_id": 297,
+    "agent": "sarin",
+    "concentration": 0.286,
+    "reaction_rate": 0.598,
+    "timestamp": "2025-03-01T16:28:26.585305"
+  },
+  {
+    "sensor_id": 298,
+    "agent": "sarin",
+    "concentration": 0.246,
+    "reaction_rate": 0.628,
+    "timestamp": "2025-03-01T16:28:27.585305"
+  },
+  {
+    "sensor_id": 299,
+    "agent": "sarin",
+    "concentration": 0.245,
+    "reaction_rate": 0.629,
+    "timestamp": "2025-03-01T16:28:28.585305"
+  },
+  {
+    "sensor_id": 300,
+    "agent": "sarin",
+    "concentration": 0.251,
+    "reaction_rate": 0.624,
+    "timestamp": "2025-03-01T16:28:29.585305"
+  },
+  {
+    "sensor_id": 301,
+    "agent": "sarin",
+    "concentration": 0.055,
+    "reaction_rate": 0.826,
+    "timestamp": "2025-03-01T16:26:50.585305"
+  },
+  {
+    "sensor_id": 302,
+    "agent": "sarin",
+    "concentration": 0.088,
+    "reaction_rate": 0.784,
+    "timestamp": "2025-03-01T16:26:51.585305"
+  },
+  {
+    "sensor_id": 303,
+    "agent": "sarin",
+    "concentration": 0.052,
+    "reaction_rate": 0.83,
+    "timestamp": "2025-03-01T16:26:52.585305"
+  },
+  {
+    "sensor_id": 304,
+    "agent": "sarin",
+    "concentration": 0.072,
+    "reaction_rate": 0.804,
+    "timestamp": "2025-03-01T16:26:53.585305"
+  },
+  {
+    "sensor_id": 305,
+    "agent": "sarin",
+    "concentration": 0.074,
+    "reaction_rate": 0.801,
+    "timestamp": "2025-03-01T16:26:54.585305"
+  },
+  {
+    "sensor_id": 306,
+    "agent": "sarin",
+    "concentration": 0.037,
+    "reaction_rate": 0.851,
+    "timestamp": "2025-03-01T16:26:55.585305"
+  },
+  {
+    "sensor_id": 307,
+    "agent": "sarin",
+    "concentration": 0.09,
+    "reaction_rate": 0.781,
+    "timestamp": "2025-03-01T16:26:56.585305"
+  },
+  {
+    "sensor_id": 308,
+    "agent": "sarin",
+    "concentration": 0.081,
+    "reaction_rate": 0.792,
+    "timestamp": "2025-03-01T16:26:57.585305"
+  },
+  {
+    "sensor_id": 309,
+    "agent": "sarin",
+    "concentration": 0.065,
+    "reaction_rate": 0.813,
+    "timestamp": "2025-03-01T16:26:58.585305"
+  },
+  {
+    "sensor_id": 310,
+    "agent": "sarin",
+    "concentration": 0.052,
+    "reaction_rate": 0.83,
+    "timestamp": "2025-03-01T16:26:59.585305"
+  },
+  {
+    "sensor_id": 311,
+    "agent": "sarin",
+    "concentration": 0.072,
+    "reaction_rate": 0.804,
+    "timestamp": "2025-03-01T16:27:00.585305"
+  },
+  {
+    "sensor_id": 312,
+    "agent": "sarin",
+    "concentration": 0.08,
+    "reaction_rate": 0.794,
+    "timestamp": "2025-03-01T16:27:01.585305"
+  },
+  {
+    "sensor_id": 313,
+    "agent": "sarin",
+    "concentration": 0.066,
+    "reaction_rate": 0.811,
+    "timestamp": "2025-03-01T16:27:02.585305"
+  },
+  {
+    "sensor_id": 314,
+    "agent": "sarin",
+    "concentration": 0.091,
+    "reaction_rate": 0.78,
+    "timestamp": "2025-03-01T16:27:03.585305"
+  },
+  {
+    "sensor_id": 315,
+    "agent": "sarin",
+    "concentration": 0.084,
+    "reaction_rate": 0.789,
+    "timestamp": "2025-03-01T16:27:04.585305"
+  },
+  {
+    "sensor_id": 316,
+    "agent": "sarin",
+    "concentration": 0.058,
+    "reaction_rate": 0.822,
+    "timestamp": "2025-03-01T16:27:05.585305"
+  },
+  {
+    "sensor_id": 317,
+    "agent": "sarin",
+    "concentration": 0.095,
+    "reaction_rate": 0.775,
+    "timestamp": "2025-03-01T16:27:06.585305"
+  },
+  {
+    "sensor_id": 318,
+    "agent": "sarin",
+    "concentration": 0.104,
+    "reaction_rate": 0.765,
+    "timestamp": "2025-03-01T16:27:07.585305"
+  },
+  {
+    "sensor_id": 319,
+    "agent": "sarin",
+    "concentration": 0.091,
+    "reaction_rate": 0.78,
+    "timestamp": "2025-03-01T16:27:08.585305"
+  },
+  {
+    "sensor_id": 320,
+    "agent": "sarin",
+    "concentration": 0.075,
+    "reaction_rate": 0.8,
+    "timestamp": "2025-03-01T16:27:09.585305"
+  },
+  {
+    "sensor_id": 321,
+    "agent": "sarin",
+    "concentration": 0.102,
+    "reaction_rate": 0.767,
+    "timestamp": "2025-03-01T16:27:10.585305"
+  },
+  {
+    "sensor_id": 322,
+    "agent": "sarin",
+    "concentration": 0.079,
+    "reaction_rate": 0.795,
+    "timestamp": "2025-03-01T16:27:11.585305"
+  },
+  {
+    "sensor_id": 323,
+    "agent": "sarin",
+    "concentration": 0.105,
+    "reaction_rate": 0.763,
+    "timestamp": "2025-03-01T16:27:12.585305"
+  },
+  {
+    "sensor_id": 324,
+    "agent": "sarin",
+    "concentration": 0.099,
+    "reaction_rate": 0.77,
+    "timestamp": "2025-03-01T16:27:13.585305"
+  },
+  {
+    "sensor_id": 325,
+    "agent": "sarin",
+    "concentration": 0.109,
+    "reaction_rate": 0.758,
+    "timestamp": "2025-03-01T16:27:14.585305"
+  },
+  {
+    "sensor_id": 326,
+    "agent": "sarin",
+    "concentration": 0.074,
+    "reaction_rate": 0.801,
+    "timestamp": "2025-03-01T16:27:15.585305"
+  },
+  {
+    "sensor_id": 327,
+    "agent": "sarin",
+    "concentration": 0.105,
+    "reaction_rate": 0.763,
+    "timestamp": "2025-03-01T16:27:16.585305"
+  },
+  {
+    "sensor_id": 328,
+    "agent": "sarin",
+    "concentration": 0.088,
+    "reaction_rate": 0.784,
+    "timestamp": "2025-03-01T16:27:17.585305"
+  },
+  {
+    "sensor_id": 329,
+    "agent": "sarin",
+    "concentration": 0.12,
+    "reaction_rate": 0.746,
+    "timestamp": "2025-03-01T16:27:18.585305"
+  },
+  {
+    "sensor_id": 330,
+    "agent": "sarin",
+    "concentration": 0.108,
+    "reaction_rate": 0.76,
+    "timestamp": "2025-03-01T16:27:19.585305"
+  },
+  {
+    "sensor_id": 331,
+    "agent": "sarin",
+    "concentration": 0.08,
+    "reaction_rate": 0.794,
+    "timestamp": "2025-03-01T16:27:20.585305"
+  },
+  {
+    "sensor_id": 332,
+    "agent": "sarin",
+    "concentration": 0.077,
+    "reaction_rate": 0.797,
+    "timestamp": "2025-03-01T16:27:21.585305"
+  },
+  {
+    "sensor_id": 333,
+    "agent": "sarin",
+    "concentration": 0.087,
+    "reaction_rate": 0.784,
+    "timestamp": "2025-03-01T16:27:22.585305"
+  },
+  {
+    "sensor_id": 334,
+    "agent": "sarin",
+    "concentration": 0.124,
+    "reaction_rate": 0.742,
+    "timestamp": "2025-03-01T16:27:23.585305"
+  },
+  {
+    "sensor_id": 335,
+    "agent": "sarin",
+    "concentration": 0.134,
+    "reaction_rate": 0.731,
+    "timestamp": "2025-03-01T16:27:24.585305"
+  },
+  {
+    "sensor_id": 336,
+    "agent": "sarin",
+    "concentration": 0.136,
+    "reaction_rate": 0.729,
+    "timestamp": "2025-03-01T16:27:25.585305"
+  },
+  {
+    "sensor_id": 337,
+    "agent": "sarin",
+    "concentration": 0.125,
+    "reaction_rate": 0.741,
+    "timestamp": "2025-03-01T16:27:26.585305"
+  },
+  {
+    "sensor_id": 338,
+    "agent": "sarin",
+    "concentration": 0.109,
+    "reaction_rate": 0.759,
+    "timestamp": "2025-03-01T16:27:27.585305"
+  },
+  {
+    "sensor_id": 339,
+    "agent": "sarin",
+    "concentration": 0.112,
+    "reaction_rate": 0.756,
+    "timestamp": "2025-03-01T16:27:28.585305"
+  },
+  {
+    "sensor_id": 340,
+    "agent": "sarin",
+    "concentration": 0.158,
+    "reaction_rate": 0.707,
+    "timestamp": "2025-03-01T16:27:29.585305"
+  },
+  {
+    "sensor_id": 341,
+    "agent": "sarin",
+    "concentration": 0.13,
+    "reaction_rate": 0.736,
+    "timestamp": "2025-03-01T16:27:30.585305"
+  },
+  {
+    "sensor_id": 342,
+    "agent": "sarin",
+    "concentration": 0.135,
+    "reaction_rate": 0.73,
+    "timestamp": "2025-03-01T16:27:31.585305"
+  },
+  {
+    "sensor_id": 343,
+    "agent": "sarin",
+    "concentration": 0.107,
+    "reaction_rate": 0.762,
+    "timestamp": "2025-03-01T16:27:32.585305"
+  },
+  {
+    "sensor_id": 344,
+    "agent": "sarin",
+    "concentration": 0.128,
+    "reaction_rate": 0.738,
+    "timestamp": "2025-03-01T16:27:33.585305"
+  },
+  {
+    "sensor_id": 345,
+    "agent": "sarin",
+    "concentration": 0.158,
+    "reaction_rate": 0.706,
+    "timestamp": "2025-03-01T16:27:34.585305"
+  },
+  {
+    "sensor_id": 346,
+    "agent": "sarin",
+    "concentration": 0.127,
+    "reaction_rate": 0.739,
+    "timestamp": "2025-03-01T16:27:35.585305"
+  },
+  {
+    "sensor_id": 347,
+    "agent": "sarin",
+    "concentration": 0.151,
+    "reaction_rate": 0.713,
+    "timestamp": "2025-03-01T16:27:36.585305"
+  },
+  {
+    "sensor_id": 348,
+    "agent": "sarin",
+    "concentration": 0.133,
+    "reaction_rate": 0.732,
+    "timestamp": "2025-03-01T16:27:37.585305"
+  },
+  {
+    "sensor_id": 349,
+    "agent": "sarin",
+    "concentration": 0.173,
+    "reaction_rate": 0.692,
+    "timestamp": "2025-03-01T16:27:38.585305"
+  },
+  {
+    "sensor_id": 350,
+    "agent": "sarin",
+    "concentration": 0.133,
+    "reaction_rate": 0.733,
+    "timestamp": "2025-03-01T16:27:39.585305"
+  },
+  {
+    "sensor_id": 351,
+    "agent": "sarin",
+    "concentration": 0.108,
+    "reaction_rate": 0.76,
+    "timestamp": "2025-03-01T16:27:40.585305"
+  },
+  {
+    "sensor_id": 352,
+    "agent": "sarin",
+    "concentration": 0.11,
+    "reaction_rate": 0.757,
+    "timestamp": "2025-03-01T16:27:41.585305"
+  },
+  {
+    "sensor_id": 353,
+    "agent": "sarin",
+    "concentration": 0.17,
+    "reaction_rate": 0.695,
+    "timestamp": "2025-03-01T16:27:42.585305"
+  },
+  {
+    "sensor_id": 354,
+    "agent": "sarin",
+    "concentration": 0.158,
+    "reaction_rate": 0.706,
+    "timestamp": "2025-03-01T16:27:43.585305"
+  },
+  {
+    "sensor_id": 355,
+    "agent": "sarin",
+    "concentration": 0.138,
+    "reaction_rate": 0.727,
+    "timestamp": "2025-03-01T16:27:44.585305"
+  },
+  {
+    "sensor_id": 356,
+    "agent": "sarin",
+    "concentration": 0.127,
+    "reaction_rate": 0.739,
+    "timestamp": "2025-03-01T16:27:45.585305"
+  },
+  {
+    "sensor_id": 357,
+    "agent": "sarin",
+    "concentration": 0.148,
+    "reaction_rate": 0.716,
+    "timestamp": "2025-03-01T16:27:46.585305"
+  },
+  {
+    "sensor_id": 358,
+    "agent": "sarin",
+    "concentration": 0.162,
+    "reaction_rate": 0.702,
+    "timestamp": "2025-03-01T16:27:47.585305"
+  },
+  {
+    "sensor_id": 359,
+    "agent": "sarin",
+    "concentration": 0.165,
+    "reaction_rate": 0.699,
+    "timestamp": "2025-03-01T16:27:48.585305"
+  },
+  {
+    "sensor_id": 360,
+    "agent": "sarin",
+    "concentration": 0.129,
+    "reaction_rate": 0.736,
+    "timestamp": "2025-03-01T16:27:49.585305"
+  },
+  {
+    "sensor_id": 361,
+    "agent": "sarin",
+    "concentration": 0.141,
+    "reaction_rate": 0.724,
+    "timestamp": "2025-03-01T16:27:50.585305"
+  },
+  {
+    "sensor_id": 362,
+    "agent": "sarin",
+    "concentration": 0.17,
+    "reaction_rate": 0.695,
+    "timestamp": "2025-03-01T16:27:51.585305"
+  },
+  {
+    "sensor_id": 363,
+    "agent": "sarin",
+    "concentration": 0.16,
+    "reaction_rate": 0.704,
+    "timestamp": "2025-03-01T16:27:52.585305"
+  },
+  {
+    "sensor_id": 364,
+    "agent": "sarin",
+    "concentration": 0.178,
+    "reaction_rate": 0.687,
+    "timestamp": "2025-03-01T16:27:53.585305"
+  },
+  {
+    "sensor_id": 365,
+    "agent": "sarin",
+    "concentration": 0.183,
+    "reaction_rate": 0.682,
+    "timestamp": "2025-03-01T16:27:54.585305"
+  },
+  {
+    "sensor_id": 366,
+    "agent": "sarin",
+    "concentration": 0.175,
+    "reaction_rate": 0.689,
+    "timestamp": "2025-03-01T16:27:55.585305"
+  },
+  {
+    "sensor_id": 367,
+    "agent": "sarin",
+    "concentration": 0.202,
+    "reaction_rate": 0.665,
+    "timestamp": "2025-03-01T16:27:56.585305"
+  },
+  {
+    "sensor_id": 368,
+    "agent": "sarin",
+    "concentration": 0.179,
+    "reaction_rate": 0.686,
+    "timestamp": "2025-03-01T16:27:57.585305"
+  },
+  {
+    "sensor_id": 369,
+    "agent": "sarin",
+    "concentration": 0.164,
+    "reaction_rate": 0.7,
+    "timestamp": "2025-03-01T16:27:58.585305"
+  },
+  {
+    "sensor_id": 370,
+    "agent": "sarin",
+    "concentration": 0.191,
+    "reaction_rate": 0.675,
+    "timestamp": "2025-03-01T16:27:59.585305"
+  },
+  {
+    "sensor_id": 371,
+    "agent": "sarin",
+    "concentration": 0.206,
+    "reaction_rate": 0.662,
+    "timestamp": "2025-03-01T16:28:00.585305"
+  },
+  {
+    "sensor_id": 372,
+    "agent": "sarin",
+    "concentration": 0.187,
+    "reaction_rate": 0.678,
+    "timestamp": "2025-03-01T16:28:01.585305"
+  },
+  {
+    "sensor_id": 373,
+    "agent": "sarin",
+    "concentration": 0.191,
+    "reaction_rate": 0.674,
+    "timestamp": "2025-03-01T16:28:02.585305"
+  },
+  {
+    "sensor_id": 374,
+    "agent": "sarin",
+    "concentration": 0.215,
+    "reaction_rate": 0.653,
+    "timestamp": "2025-03-01T16:28:03.585305"
+  },
+  {
+    "sensor_id": 375,
+    "agent": "sarin",
+    "concentration": 0.235,
+    "reaction_rate": 0.637,
+    "timestamp": "2025-03-01T16:28:04.585305"
+  },
+  {
+    "sensor_id": 376,
+    "agent": "sarin",
+    "concentration": 0.206,
+    "reaction_rate": 0.661,
+    "timestamp": "2025-03-01T16:28:05.585305"
+  },
+  {
+    "sensor_id": 377,
+    "agent": "sarin",
+    "concentration": 0.215,
+    "reaction_rate": 0.654,
+    "timestamp": "2025-03-01T16:28:06.585305"
+  },
+  {
+    "sensor_id": 378,
+    "agent": "sarin",
+    "concentration": 0.231,
+    "reaction_rate": 0.64,
+    "timestamp": "2025-03-01T16:28:07.585305"
+  },
+  {
+    "sensor_id": 379,
+    "agent": "sarin",
+    "concentration": 0.226,
+    "reaction_rate": 0.644,
+    "timestamp": "2025-03-01T16:28:08.585305"
+  },
+  {
+    "sensor_id": 380,
+    "agent": "sarin",
+    "concentration": 0.195,
+    "reaction_rate": 0.671,
+    "timestamp": "2025-03-01T16:28:09.585305"
+  },
+  {
+    "sensor_id": 381,
+    "agent": "sarin",
+    "concentration": 0.197,
+    "reaction_rate": 0.669,
+    "timestamp": "2025-03-01T16:28:10.585305"
+  },
+  {
+    "sensor_id": 382,
+    "agent": "sarin",
+    "concentration": 0.224,
+    "reaction_rate": 0.646,
+    "timestamp": "2025-03-01T16:28:11.585305"
+  },
+  {
+    "sensor_id": 383,
+    "agent": "sarin",
+    "concentration": 0.224,
+    "reaction_rate": 0.646,
+    "timestamp": "2025-03-01T16:28:12.585305"
+  },
+  {
+    "sensor_id": 384,
+    "agent": "sarin",
+    "concentration": 0.21,
+    "reaction_rate": 0.658,
+    "timestamp": "2025-03-01T16:28:13.585305"
+  },
+  {
+    "sensor_id": 385,
+    "agent": "sarin",
+    "concentration": 0.232,
+    "reaction_rate": 0.639,
+    "timestamp": "2025-03-01T16:28:14.585305"
+  },
+  {
+    "sensor_id": 386,
+    "agent": "sarin",
+    "concentration": 0.223,
+    "reaction_rate": 0.647,
+    "timestamp": "2025-03-01T16:28:15.585305"
+  },
+  {
+    "sensor_id": 387,
+    "agent": "sarin",
+    "concentration": 0.209,
+    "reaction_rate": 0.658,
+    "timestamp": "2025-03-01T16:28:16.585305"
+  },
+  {
+    "sensor_id": 388,
+    "agent": "sarin",
+    "concentration": 0.246,
+    "reaction_rate": 0.628,
+    "timestamp": "2025-03-01T16:28:17.585305"
+  },
+  {
+    "sensor_id": 389,
+    "agent": "sarin",
+    "concentration": 0.237,
+    "reaction_rate": 0.635,
+    "timestamp": "2025-03-01T16:28:18.585305"
+  },
+  {
+    "sensor_id": 390,
+    "agent": "sarin",
+    "concentration": 0.231,
+    "reaction_rate": 0.64,
+    "timestamp": "2025-03-01T16:28:19.585305"
+  },
+  {
+    "sensor_id": 391,
+    "agent": "sarin",
+    "concentration": 0.214,
+    "reaction_rate": 0.654,
+    "timestamp": "2025-03-01T16:28:20.585305"
+  },
+  {
+    "sensor_id": 392,
+    "agent": "sarin",
+    "concentration": 0.232,
+    "reaction_rate": 0.639,
+    "timestamp": "2025-03-01T16:28:21.585305"
+  },
+  {
+    "sensor_id": 393,
+    "agent": "sarin",
+    "concentration": 0.253,
+    "reaction_rate": 0.623,
+    "timestamp": "2025-03-01T16:28:22.585305"
+  },
+  {
+    "sensor_id": 394,
+    "agent": "sarin",
+    "concentration": 0.265,
+    "reaction_rate": 0.614,
+    "timestamp": "2025-03-01T16:28:23.585305"
+  }
+]
