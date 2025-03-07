@@ -1,4 +1,16 @@
+# Virtual environments
 venv/
-__pycache__/
-*.log
+ml_venv/
+*__pycache__/
 *.pyc
+
+# Generated files
+*.pcap
+*.xml
+
+# Large data files (optional)
+# data/*.json
+
+# System files
+.DS_Store
+.vscode/
