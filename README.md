@@ -82,19 +82,6 @@ cd ml
 python visualization.py
 ```
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-@inproceedings{yourlastname2025ai,
-  title={AI-Augmented Blockchain for Biochemical Threat Detection in Disrupted Tactical MANETs},
-  author={Your Name and Coauthors},
-  booktitle={MILCOM 2025 - IEEE Military Communications Conference},
-  year={2025},
-  organization={IEEE}
-}
-```
 
 ## License
 
@@ -103,4 +90,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - This research was conducted for MILCOM 2025
-- Thanks to [your institution/lab] for support
+- Thanks to [NSL/Kumoh National Institute of Technology] for support
